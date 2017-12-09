@@ -1,0 +1,20 @@
+c:\users\keerthan.nadoor\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.deps.json
+c:\users\keerthan.nadoor\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.json
+c:\users\keerthan.nadoor\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\keerthan.nadoor\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.dll
+C:\Users\keerthan.nadoor\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.pdb
+C:\Users\keerthan.nadoor\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\keerthan.nadoor\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\keerthan.nadoor\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.dll
+C:\Users\keerthan.nadoor\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.pdb
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.deps.json
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.json
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.dll
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp1.1\ConsoleApp3.pdb
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.dll
+C:\Users\Keerthan Nadoor\Desktop\ConsoleApp3\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp1.1\ConsoleApp3.pdb

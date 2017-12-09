@@ -1,0 +1,5 @@
+cd C:\Users\keerthan.nadoor\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3
+
+dotnet build
+
+dtnet run
